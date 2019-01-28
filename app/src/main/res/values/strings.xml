@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Buget</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="add_bank_account">add bank account</string>
 </resources>
